@@ -1,4 +1,4 @@
-#!groovy
+/*#!groovy
 properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '', numToKeepStr: '3'))])
 
 
